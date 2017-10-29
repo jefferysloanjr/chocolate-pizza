@@ -1,0 +1,56 @@
+body {
+  background: #fff;
+  width: 960px;
+}
+
+body h1 {
+  margin-left: 10px;
+  clear: bottom;
+  font-family: brush script mt, brush script std, cursive;
+}
+
+body h2 {
+  float: bottom;
+}
+
+body header section header {
+  clear: both;
+  float: right;
+}
+
+head, main, footer {
+  padding: 100px;
+  margin: 0 auto;
+}
+
+body header section img {
+  float: left;
+
+}
+
+body div h1, body div p {
+  float: left;
+}
+
+footer section {
+  clear: left;
+  float: right;
+  margin-right: 220px;
+}
+
+footer button {
+  float: right;
+}
+
+main div p {
+  margin: 30px 0px 30px 0px;
+  font-family: serif;
+}
+
+main header {
+  font-size: 40px;
+}
+
+footer div img {
+  margin-left: 550px;
+}
