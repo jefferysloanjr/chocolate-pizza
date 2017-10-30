@@ -1,21 +1,31 @@
 body {
+  clear: both;
   background: #fff;
   width: 960px;
 }
 
+body p img {
+  clear: both;
+  float: left;
+}
+
 body h1 {
+  float: right;
   margin-left: 10px;
-  clear: bottom;
-  font-family: brush script mt, brush script std, cursive;
+  font-family: cursive;
 }
 
 body h2 {
-  float: bottom;
+  float: top;
+}
+
+body section img {
+  float: right;
 }
 
 body header section header {
   clear: both;
-  float: right;
+  float: left;
 }
 
 head, main, footer {
@@ -24,7 +34,7 @@ head, main, footer {
 }
 
 body header section img {
-  float: left;
+  float: right;
 
 }
 
